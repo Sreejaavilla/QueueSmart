@@ -1,0 +1,7 @@
+{
+  "name": "QueueSmart: Canteen Queue Predictor",
+  "description": "A smart canteen queue predictor that leverages AI to estimate wait times and provides live analytics on queue lengths, helping you save time and plan your meals better.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
